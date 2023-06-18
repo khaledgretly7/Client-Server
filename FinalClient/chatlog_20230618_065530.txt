@@ -1,0 +1,4 @@
+Enter your username:
+Authentication successful. Welcome, gggg!
+Available chat rooms:
+Enter the number of the chat room you want to join:
